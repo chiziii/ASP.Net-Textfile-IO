@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Assement\Assement\obj\Debug\Assement.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Assement\Assement\obj\Debug\Assement.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Assement\Assement\bin\Debug\Assement.exe.config
+C:\Users\DELL\source\repos\Assement\Assement\bin\Debug\Assement.exe
+C:\Users\DELL\source\repos\Assement\Assement\bin\Debug\Assement.pdb
+C:\Users\DELL\source\repos\Assement\Assement\obj\Debug\Assement.exe
+C:\Users\DELL\source\repos\Assement\Assement\obj\Debug\Assement.pdb
